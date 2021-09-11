@@ -1,0 +1,7 @@
+E:\LT .NET\LeVanHung_2019600006_De11\LeVanHung_2019600006_De11\bin\Debug\LeVanHung_2019600006_De11.exe.config
+E:\LT .NET\LeVanHung_2019600006_De11\LeVanHung_2019600006_De11\bin\Debug\LeVanHung_2019600006_De11.exe
+E:\LT .NET\LeVanHung_2019600006_De11\LeVanHung_2019600006_De11\bin\Debug\LeVanHung_2019600006_De11.pdb
+E:\LT .NET\LeVanHung_2019600006_De11\LeVanHung_2019600006_De11\obj\Debug\LeVanHung_2019600006_De11.csproj.CoreCompileInputs.cache
+E:\LT .NET\LeVanHung_2019600006_De11\LeVanHung_2019600006_De11\obj\Debug\LeVanHung_2019600006_De11.exe
+E:\LT .NET\LeVanHung_2019600006_De11\LeVanHung_2019600006_De11\obj\Debug\LeVanHung_2019600006_De11.pdb
+E:\LT .NET\LeVanHung_2019600006_De11\LeVanHung_2019600006_De11\obj\Debug\LeVanHung_2019600006_De11.csproj.AssemblyReference.cache
