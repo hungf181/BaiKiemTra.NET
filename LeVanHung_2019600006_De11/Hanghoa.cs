@@ -35,7 +35,5 @@ namespace LeVanHung_2019600006_De11
             return string.Format("\t{0,-15}{1,-20}{2,-15}{3,-18}{4,-15}"
                , this.MaHang, this.TenHang, this.SoLuong, this.DonGia, this.Tinhtongtien());
         }
-        public double DonGia { get => donGia; set => donGia = value; }
-        public string MaHang { get => maHang; set => maHang = value; }
     }
 }
