@@ -8,6 +8,7 @@ namespace LeVanHung_2019600006_De11
 {
     class Program
     {
+        // File này tạo new branch
         static private List<Hanghoa> DsHanghoa = new List<Hanghoa>();
         static void Main(string[] args)
         {
@@ -191,4 +192,5 @@ namespace LeVanHung_2019600006_De11
             return true;
         }
     }
+    //Tiếp tục code
 }
