@@ -8,6 +8,7 @@ namespace LeVanHung_2019600006_De11
 {
     class Program
     {
+        //Update
         static private List<Hanghoa> DsHanghoa = new List<Hanghoa>();
         static void Main(string[] args)
         {
